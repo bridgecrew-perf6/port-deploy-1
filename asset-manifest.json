@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/port-deploy/static/css/main.c8bedf86.chunk.css",
+    "main.js": "/port-deploy/static/js/main.0b00e312.chunk.js",
+    "main.js.map": "/port-deploy/static/js/main.0b00e312.chunk.js.map",
+    "runtime-main.js": "/port-deploy/static/js/runtime-main.43f1952f.js",
+    "runtime-main.js.map": "/port-deploy/static/js/runtime-main.43f1952f.js.map",
+    "static/js/2.2f87243d.chunk.js": "/port-deploy/static/js/2.2f87243d.chunk.js",
+    "static/js/2.2f87243d.chunk.js.map": "/port-deploy/static/js/2.2f87243d.chunk.js.map",
+    "index.html": "/port-deploy/index.html",
+    "static/css/main.c8bedf86.chunk.css.map": "/port-deploy/static/css/main.c8bedf86.chunk.css.map",
+    "static/js/2.2f87243d.chunk.js.LICENSE.txt": "/port-deploy/static/js/2.2f87243d.chunk.js.LICENSE.txt",
+    "static/media/address.a01cb8cc.png": "/port-deploy/static/media/address.a01cb8cc.png",
+    "static/media/award.7bb4a2b0.png": "/port-deploy/static/media/award.7bb4a2b0.png",
+    "static/media/email.a49e0158.png": "/port-deploy/static/media/email.a49e0158.png",
+    "static/media/moon.3bea3d39.png": "/port-deploy/static/media/moon.3bea3d39.png",
+    "static/media/phone.d90a6d23.png": "/port-deploy/static/media/phone.d90a6d23.png",
+    "static/media/portpic2.2f442a1b.png": "/port-deploy/static/media/portpic2.2f442a1b.png",
+    "static/media/sun.f794832a.png": "/port-deploy/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43f1952f.js",
+    "static/js/2.2f87243d.chunk.js",
+    "static/css/main.c8bedf86.chunk.css",
+    "static/js/main.0b00e312.chunk.js"
+  ]
+}
